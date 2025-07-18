@@ -29,10 +29,8 @@ Este proyecto es una aplicación de notas simple pero poderosa, diseñada para a
 
 | Imagen 1 | Imagen 2 |
 |----------|----------|
-| ![](ruta/a/imagen1.png) | ![](ruta/a/imagen2.png) |
-| ![](ruta/a/imagen3.png) | ![](ruta/a/imagen4.png) |
-
-_Reemplaza las rutas por las correctas para tus imágenes._
+| <img width="1080" height="2340" alt="Screenshot_20250717_215558" src="https://github.com/user-attachments/assets/7b5f4c0b-ab49-40d3-be56-60d2ed98d403" /> |  <img width="1080" height="2340" alt="Screenshot_20250717_215623" src="https://github.com/user-attachments/assets/8a9ec513-b222-4f93-878c-9129320ffe89" />
+|<img width="1080" height="2340" alt="Screenshot_20250717_215637" src="https://github.com/user-attachments/assets/bf133ed1-8c47-4259-90a4-c9b33a1840c3" /> |<img width="1080" height="2340" alt="Screenshot_20250717_215718" src="https://github.com/user-attachments/assets/7508a5d2-8fb7-4308-a465-14165ed27ff7" /> |
 
 ---
 
